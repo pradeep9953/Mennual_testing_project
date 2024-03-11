@@ -1,14 +1,14 @@
 # Mennual_testing_project #
+# create a FRS documentment
  
 HI MY NAME IS PRADEEP  HERE IS MENNUAL TESTING PROJECT UPLOADED
 
 ## HERE IS WEBSITE URL
-https://topsoftwarecourses.com/
+https://demo.opencart.com/
+## share is my exeperience ## 
 
-<p>THIS WEBSITE IS EDUCATIONAL WEBSITE IT IS PROVIDING A PROFESSIONAL COURSES </p>
-<P>LIKE DATA ANALYTICS AND MACHINE LEARNING AND MORE...</P>
+i Have Experience Test Scenario, Test Cases, Test Data And Other Documents For Testing Manual Testing Such As Regression, Gui, Functionality, Browser Compatibility And Uat Identifying Bugs, Issue Reporting, Logging And Test Report Generation.
 
-## IN THIS PROJECT HAVE INCLUDED 
-<P>CREATE A TEST SCENARIO</P>
-<p>CREATE A TEST CASES </p>
-<p>CREATE A RTM </p>
+Working With The Development Team And Testing Team To Ensure Consistent, High Quality Delivery Experience In Sdlc Defect Tracking Tool Good Communication Skills Knowledge Of Sql Server Knowledge.
+
+Strong Knowledge And Understanding Of Stlc And Concepts Good In Sql And Rdbms Concepts
